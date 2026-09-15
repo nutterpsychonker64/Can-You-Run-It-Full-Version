@@ -237,4 +237,4 @@ This repository serves as the official landing page for Can You Run it?. The sof
 **Get the most recent version of Can You Run it? today!**
 
 ---
-**Last updated:** 2026-09-14 21:24:21 UTC
+**Last updated:** 2026-09-15 00:13:22 UTC
